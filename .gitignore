@@ -1,0 +1,15 @@
+# Ignorar archivos DLL
+*.dll
+
+# Ignorar archivos PDB (archivos de depuración)
+*.pdb
+
+# Ignorar carpetas y archivos de compilación
+bin/
+obj/
+
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
